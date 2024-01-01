@@ -3,12 +3,12 @@ certifi==2023.11.17
 chardet==4.0.0
 charset-normalizer==3.3.2
 click==8.1.7
-command-not-found==0.3
+#command-not-found==0.3
 cryptography==3.4.8
 dacite==1.8.1
 dbus-python==1.2.18
 distro==1.7.0
-distro-info==1.1+ubuntu0.1
+#distro-info==1.1+ubuntu0.1
 Flask==2.3.2
 gunicorn==21.2.0
 httplib2==0.20.2
@@ -34,7 +34,7 @@ pycairo==1.25.1
 PyGObject==3.42.1
 PyJWT==2.3.0
 pyparsing==2.4.7
-python-apt==2.4.0+ubuntu2
+#python-apt==2.4.0+ubuntu2
 PyYAML==5.4.1
 requests==2.30.0
 responses==0.23.1
